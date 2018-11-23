@@ -1,0 +1,200 @@
+#entête{font-family: dosis;
+font-style:italic;
+font-size: 20px;
+color:white;
+text-align: right;
+margin:20px 20px 0 0;}
+
+body {font-size: 28px;
+background-image:url(images/fond.png);background-size: cover }
+
+#bande {background-color: ;
+margin: 50px auto} 
+#bande-1 {background-color: }
+#bande-2 {background-color: ;
+margin: 50px auto;}    
+#bande-3 {background-color: ;
+margin: 50px auto;}
+
+    margin: 0;
+#contact {list-style-type: none;
+    padding: 0;
+    background-color: #333;
+    top: 0;
+}
+
+h2{color: white;
+font-family: dosis;}
+
+h1{color:red;
+font-size: 70px;
+font-family: dosis;}
+
+h3{color:red;
+font-size: 30px;
+font-family: dosis;}
+
+#ligne-1{font-size: 20px;
+font-family: dosis;}
+#ligne-2{font-size: 20px;
+font-family: dosis;}
+#ligne-3{font-size: 20px;
+font-family: dosis;}
+
+
+
+
+#bouton{height: 60px;
+	width: 300px;
+	font-family:arial;
+	font-weight: 2000;}
+
+
+#logo {margin:0 0 0 0vw;
+    padding: 1px;}
+
+
+
+div a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+div a:hover {
+    background-color: #F5F9FA;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+
+#reserver {
+	background-image: linear-gradient(to right, rgba(0,0,0,0.3),rgba(0,0,0,0)), url(images/ballon.jpg);
+	
+	background-size: cover;
+	height: 60vh;
+	margin-bottom: 50px}
+
+#texte-1{margin: 20px auto;
+text-align: center;
+font-family: georgia;}
+#texte-2{text-align: center;
+font-family: georgia;}
+
+
+#toto{border: 1px solid black;
+box-shadow: 5px 5px 5px rgba(200,200,200,0.8);
+background-image:url(images/fond.png);
+border
+font-family:dosis;}
+#toto-2{margin: 50px auto;}
+
+
+
+ul {list-style-type: none;}
+body {font-family: Verdana, sans-serif;}
+
+#RESA{color: blue;
+text-align: center;
+font-size: 22px;
+}
+
+
+
+#Finaliser{margin: 50px 0px;}
+
+#Tarifs{text-align:center;
+	color: white;
+	border-radius: 500px;}
+#mention{font-style: italic;
+font-size: 8px;}
+#Tarifs{background-image:url(images/dark.jpg);}
+#Titre{color:#b6f7c1;}
+
+
+#flo{font-family:dosis;
+font-size: 22px}
+
+#Identif{font-family:dosis;
+font-size: 30px;
+color: red;}
+
+
+/* Bordered form */
+form {
+    border: 3px;
+}
+
+/* Full-width inputs */
+ input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+     display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+ }
+
+/* Set a style for all buttons */
+#reservé {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+/* Add a hover effect for buttons */
+button:hover {
+    opacity: 0.8;
+}
+
+/* Extra style for the cancel button (red) */
+.cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+     background-color: #f44336;
+}
+
+/* Center the avatar image inside this container */
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+/* Avatar image */
+img.avatar {
+    width: 40%;
+     border-radius: 50%;
+}
+
+/* Add padding to containers */
+.container {margin-right: 100px;
+    
+}
+
+/* The "Forgot password" text */
+ span.psw {
+    float: right;
+    padding-top: 16px;
+}
+
+/* Change styles for span and cancel button on extra small screens */
+ @media screen and (max-width: 300px) {
+    span.psw {
+        display: block;
+        float: none;
+    }
+
+#reseaux:hover{background-color: white;}
+#sociallink {text-align: center;
+font-size: 40px;
+height: 60px;
+margin: 10px auto;}
+
